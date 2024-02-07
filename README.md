@@ -18,13 +18,7 @@ The dataset used for this project consists of social media posts related to trav
 4. Model Evaluation: Evaluating the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, and F1 score.
 5. Model Comparison: Comparing the performance of logistic regression, random forest, and decision tree models to identify the most suitable algorithm for tourism prediction.
 
- Files
-1. data.csv: The raw dataset containing social media posts.
-2. preprocessing.py: Python script for data preprocessing and feature engineering.
-3. logistic_regression.py: Python script for training and evaluating the logistic regression model.
-4. random_forest.py: Python script for training and evaluating the random forest model.
-5. decision_tree.py: Python script for training and evaluating the decision tree model.
-6. requirements.txt: Text file containing the required Python packages and dependencies.
+
 
  Usage
 1. Ensure that you have Python installed on your system.
@@ -43,5 +37,6 @@ Based on the evaluation metrics and model performance, we conclude the most effe
  Contributors
 - Saritha Verma
 - Ajay Kumar S
+
  License
 This project is licensed under the MIT License - see the LICENSE file for details.
